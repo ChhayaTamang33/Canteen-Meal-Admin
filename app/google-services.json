@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "340762509183",
+    "firebase_url": "https://canteenmealadmin-90226-default-rtdb.firebaseio.com",
+    "project_id": "canteenmealadmin-90226",
+    "storage_bucket": "canteenmealadmin-90226.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340762509183:android:d198a62c01d0afe976e44a",
+        "android_client_info": {
+          "package_name": "com.inim.canteenmealadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340762509183-6hhsugr0o759lqduf8ftbha5niivl7q3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOr3mthFgXXW6UQjW9LMSNS8bFG58hNRo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "340762509183-6hhsugr0o759lqduf8ftbha5niivl7q3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
